@@ -11,10 +11,17 @@
 						"internalType": "string",
 						"name": "_hey",
 						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_no",
+						"type": "uint256"
 					}
 				],
+				"name": "addInfo",
+				"outputs": [],
 				"stateMutability": "nonpayable",
-				"type": "constructor"
+				"type": "function"
 			},
 			{
 				"inputs": [],
@@ -71,11 +78,11 @@
 	},
 	"sources": {
 		"hello.sol": {
-			"keccak256": "0x9d6644493cd1216a5ee73251a34e809f711b31a4c468009608c7d2dfb14f4949",
+			"keccak256": "0x5962b38d44791d91444c3e1941c18d9e5bd70db1bf63abf0622bc2ffbf0b85a8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4d881eba57344f123f3b7c9238759b738be3efb8c9f0f842e6c0f83f2a8929cf",
-				"dweb:/ipfs/QmeJTggGCTUcvgMCQyfcfmkBacjP5711jYfSRgza988ddw"
+				"bzz-raw://b456e0823a416b1297cbcd0eff5884d3a7de748e653185514d6b13557f54fdb6",
+				"dweb:/ipfs/QmT6ik4Ed3q6UBXtUaRbjXpy7QhAjQLDXBZ7botiHmc2De"
 			]
 		}
 	},
