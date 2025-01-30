@@ -1,0 +1,1 @@
+# solidity_course_2024_v001
