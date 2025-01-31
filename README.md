@@ -15,5 +15,8 @@ https://www.youtube.com/watch?v=-YW2h8iYrYw&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
-9:03
+## 08 Solidity Function | What are functions in Solidity Like, Function, Modifiers, Pure | Solidity Course
+https://www.youtube.com/watch?v=_LHnxs_Bru4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=8
+
+...
 

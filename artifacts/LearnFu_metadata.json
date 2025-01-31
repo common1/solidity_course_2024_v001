@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"function.sol": "DataTypes"
+			"function.sol": "LearnFu"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"function.sol": {
-			"keccak256": "0x1632cc7fcce9899d8058322edf16f21539b81e0337ee98921518c57fb92927d2",
+			"keccak256": "0xdb9ebdeb0edf2ac779ea47f4fc3b71681c5730829b7becc3e48d75752f94eda6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4d85be341cfe93e02ab7424c955ad99c20cc999a32ae44ce9ddb86063fbc5326",
-				"dweb:/ipfs/QmZuAr2wDB6jEzLUBPWkmoKC8eDZBSHZmsLrU1mQ4SvvPQ"
+				"bzz-raw://62944267607eafd1cd86ed849ce0a5e644e5aff815b08ec7d3000012be2878ff",
+				"dweb:/ipfs/QmZNuYR3qn6Rm1M1o4BDvN5VyHKrgGWMsRS9xKmFB37iYC"
 			]
 		}
 	},
