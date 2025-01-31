@@ -7,46 +7,38 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "myNum",
+				"name": "local",
 				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
 					{
 						"internalType": "uint256",
 						"name": "",
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "view",
+				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "myState",
+				"name": "myNumber",
 				"outputs": [
 					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_myState",
-						"type": "string"
-					},
-					{
 						"internalType": "uint256",
-						"name": "_myNum",
+						"name": "",
 						"type": "uint256"
 					}
 				],
-				"name": "update",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -63,7 +55,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localVariables.sol": "StateVariables"
+			"localVariables.sol": "LocalVariables"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -78,11 +70,11 @@
 	},
 	"sources": {
 		"localVariables.sol": {
-			"keccak256": "0xf034de624fd2f8ea284d08c85f11d627982883fb1e5968f87d13cf26f8392601",
+			"keccak256": "0xc1081738e9e3144241de2048810f5fd9f20b128199129126617d0350644df2e1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://af2de3c20a9d87a5cb0515e946ab782a89ca61fe5503e55c43f6febd7e9f6054",
-				"dweb:/ipfs/QmSbxdhe6KVHLa1U93DKNLzyZr8SsKbrVuhmeHyRAffXuR"
+				"bzz-raw://14382482780a420d2d21c610ad9771b256d4a2379142b4e7353268f41fb80b93",
+				"dweb:/ipfs/QmaVwMdurany61QAqDjUcAZDvzxRPCs4fSdAwhzsd2nBAk"
 			]
 		}
 	},
