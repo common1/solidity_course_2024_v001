@@ -40,3 +40,8 @@ https://www.youtube.com/watch?v=MIsL7AVub6M&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 13 Pure In Solidity | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=H1AXyAIsl0c&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=13
+
+...
+

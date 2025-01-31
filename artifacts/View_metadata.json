@@ -4,52 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "Num1",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "Num2",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getResults",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -63,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"view.sol": "View"
+			"pure.sol": "View"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -77,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"view.sol": {
-			"keccak256": "0xc44a3a1316860e9ed731b24cb96985ff416b0d15e7ce184e4378e967e7a824e6",
+		"pure.sol": {
+			"keccak256": "0xfbbc14599680efeb8de1934509c039e515e12e1a782db51e1266c7fd9aee0c6c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3aa50823e16fccc72f807875ebfe358546915965d028ab303226deb8d1aa2682",
-				"dweb:/ipfs/QmRogSP7K6H1jnbyjvKSqNCyM7csWbDNJEhrJpuze4FDJX"
+				"bzz-raw://5f8acaf4463099e6a61aadce6fe587bca81ad231bb9eab5e25a93c9eef182729",
+				"dweb:/ipfs/QmfAxR5bw4BWnissKMCBAAQTtdqKfoKW9AJ87ueqZqHSZS"
 			]
 		}
 	},
