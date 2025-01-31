@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"stateVariables.sol": "LearnFunction"
+			"stateVariables.sol": "S"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"stateVariables.sol": {
-			"keccak256": "0xf2bf329aeb08d203248fa115fdd000cb79e97025def86e3279843437a9aff784",
+			"keccak256": "0x89d871848cca64b5a60bd62c06d24e118829ed0651d6d67c1dc3cefb3f8e7160",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b395f8347b740e59ea4637bf490544409bd861275abbcce240fcb14101212baa",
-				"dweb:/ipfs/QmYfnfjvJpRZy8efbFGR6dvYdYN8Dw5szCAiutG3siCsc4"
+				"bzz-raw://af6d02084c21daa0fb96a187f51fa93d4c38c95d7641a5ac678892ff977131b2",
+				"dweb:/ipfs/QmdXCZdJbtwzUcsPwYS7kfGCkzb71sUTvg7pfSUKa7nHDX"
 			]
 		}
 	},

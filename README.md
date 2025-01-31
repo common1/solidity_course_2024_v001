@@ -20,3 +20,8 @@ https://www.youtube.com/watch?v=_LHnxs_Bru4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 09 State Variables In Solidity | Reading, and Writing to a State Variable | Complete Solidity Course
+https://www.youtube.com/watch?v=xBgE5-9AO_4&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=9
+
+...
+
