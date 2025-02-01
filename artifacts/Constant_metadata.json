@@ -7,20 +7,28 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "getData",
+				"name": "getConstant",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "address",
 						"name": "",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
+						"type": "address"
 					}
 				],
-				"stateMutability": "pure",
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myAdd",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -37,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"constant.sol": "Pure"
+			"constant.sol": "Constant"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -52,11 +60,11 @@
 	},
 	"sources": {
 		"constant.sol": {
-			"keccak256": "0xfdbd596035658ac454c5b8a106f32dfa3f023bf47cd3c745736519d204e10a4b",
+			"keccak256": "0xdbce2606262f4f31018138bce5ee952f8302aaaeca8e1322af651fa15185ee6b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f03d1644951581f0e8a2f79c25e7a1cfde39f9a842814d49ff91bc08932d52b",
-				"dweb:/ipfs/QmXYJ6gsv5SAsJRYaesMKxDiK1e2MUJnk6AqUbsVuL2xm6"
+				"bzz-raw://d3facc7dc3308804354a179d8b22d79d266a2e1937ff9e06ed7380c44245685b",
+				"dweb:/ipfs/QmbvKD8ccw4AX4DzED6NRXwxY5sAbmVVxFX7QzfmskmEeC"
 			]
 		}
 	},
