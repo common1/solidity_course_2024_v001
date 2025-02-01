@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"eventTicket.sol": "NFTCount"
+			"eventTicket.sol": "Ev"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"eventTicket.sol": {
-			"keccak256": "0xcbcdec59964cd0e7d2dfc758d34e6acb0d4ec9530a3aa5a8f7dbcab6ac8302d6",
+			"keccak256": "0xe4cc8c22c9dc7a9eaa247ba3e97335cb30c71840beedc5d59a9cf95da6efe010",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6c541a9df4cc026a7979b463337bd8a76cefd458ec1b939b7b8ccb0c17f186d8",
-				"dweb:/ipfs/QmNXBBUasHGUrJpe3cPaLEoPPZ6oxuiWt6CAyowWFugnzj"
+				"bzz-raw://a235e68f700215e9ccf4d42bba6d009a03378b8c40aadb65a53ab7567cd37997",
+				"dweb:/ipfs/QmZSa3oVU2djs53gFnojfUSXYx418so1sPd6dsfXRCJgZU"
 			]
 		}
 	},
