@@ -95,4 +95,8 @@ https://www.youtube.com/watch?v=KZGm1LIYnlk&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 24 Solidity Constructor | How To Use Solidity Constructor Function | Complete Solidity Course
+https://www.youtube.com/watch?v=jT6tq6nprY0&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=24
+
+...
 

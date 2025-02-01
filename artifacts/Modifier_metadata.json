@@ -4,78 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "address",
-						"name": "_newOwner",
-						"type": "address"
-					}
-				],
-				"name": "changeOwner",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "i",
-						"type": "uint256"
-					}
-				],
-				"name": "decrement",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "locked",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "owner",
-				"outputs": [
-					{
-						"internalType": "address",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "x",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -89,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"modifier.sol": "Modifier"
+			"constructor.sol": "Modifier"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -103,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"modifier.sol": {
-			"keccak256": "0x7b11a4d7d9d90724fcff2482ee6fa1d8aa56dab4bf634cd2a99c886ffe6844c7",
+		"constructor.sol": {
+			"keccak256": "0x6c0e8c3463da162e0674ebabc5d484dbd809f4b9f07d35e01cbcd30471aacbda",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://dc0ea9304607df16d89b59329b4847143c21827a53dde6c684c9b040c433aab2",
-				"dweb:/ipfs/QmTp21RyJvoNncpJKkGJFtxe55APnF8KEJx91aZ1Qj5EYz"
+				"bzz-raw://8e2c5e70d28e3cb125d2b53f4d75b3f3d1e964850f47ae256dbbbb471bdd9a88",
+				"dweb:/ipfs/QmNaqi8RqGvrfWHHv3BwCDdPaEXAjz5kknFb8z67tukTcx"
 			]
 		}
 	},
