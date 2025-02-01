@@ -4,59 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_num",
-						"type": "uint256"
-					}
-				],
-				"name": "get",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "result",
-						"type": "string"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "myString",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_num",
-						"type": "uint256"
-					}
-				],
-				"name": "shortHand",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "result",
-						"type": "string"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -70,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"IfElse.sol": "IfElse"
+			"WhileLoop.sol": "IfElse"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -84,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"IfElse.sol": {
-			"keccak256": "0xe14344d1233b875e7fe7a187a458f841091346af33f1285933e9826be89dfb2c",
+		"WhileLoop.sol": {
+			"keccak256": "0x56f1c7a8a9f19d9888a04e5607f195c97fa7a5fcbcedf79935c1e5d78777959d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c3d5ef88e8c4837fc52e3d3cbf219785c7a0388865b199022983d517104d5626",
-				"dweb:/ipfs/Qmdm5wVY1zSNkSbjewkZqya5iEWZgKyjmHohJCihLHgLi7"
+				"bzz-raw://bc0e82b7566cf10fedb412d3a6474724eb6e0b523b5550b847034f970b262b39",
+				"dweb:/ipfs/QmVfth15fnrvPJ2hBBxanQTPNn1dKotVEecXcnehVeZXks"
 			]
 		}
 	},

@@ -7,28 +7,14 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "addNFT",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "checkTotalNFT",
+				"name": "loop",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "uint256[]",
 						"name": "",
-						"type": "uint256"
+						"type": "uint256[]"
 					}
 				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "deleteNFT",
-				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			}
@@ -46,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"firstApp.sol": "NFTCount"
+			"WhileLoop.sol": "WhileLoop"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -60,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"firstApp.sol": {
-			"keccak256": "0x6c5bea9f45abee35a08205c19f514dd2c90f9d03aa8951a3ec3fe679a754c0f1",
+		"WhileLoop.sol": {
+			"keccak256": "0xcb466c23999d39d8cff367c065fdb10e443b7a70cb182abb3eaef3cf722b7b3f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7c6238aea6edc5d20dacf7014f1eb7d77b4d744d7b20bcab9ff6d8fe27243a8b",
-				"dweb:/ipfs/QmTXiZVQAeM2k5MS8hM9zoKjnV2GVV6b3DQYJxg3ALhjKi"
+				"bzz-raw://b5a8d7f5dff79af916340449a36fbdf25e147c0c9fcf2e3a66811245573a88cb",
+				"dweb:/ipfs/QmSHKJqXBHH3RY2qEowxBM5MsikzpaYa7WkjvjxS7eLRRx"
 			]
 		}
 	},
