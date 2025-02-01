@@ -85,3 +85,8 @@ https://www.youtube.com/watch?v=VpIGLsSJkbM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 22 Revert Error Handler In Solidity | Revert Statement | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=WCydLF6eyTg&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=22
+
+...
+

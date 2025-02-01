@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"RevertErrorHandle.sol": "LearnFunction"
+			"RevertErrorHandle.sol": "Revert"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"RevertErrorHandle.sol": {
-			"keccak256": "0xf2bf329aeb08d203248fa115fdd000cb79e97025def86e3279843437a9aff784",
+			"keccak256": "0xdc8dc02d4b61fca57b05c958497c489835c249d39a6f74bd6f4104a709e2ef3b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b395f8347b740e59ea4637bf490544409bd861275abbcce240fcb14101212baa",
-				"dweb:/ipfs/QmYfnfjvJpRZy8efbFGR6dvYdYN8Dw5szCAiutG3siCsc4"
+				"bzz-raw://d0a9f0cc002abb6bc0975f550d74d4db2fc8cf3856454bf250dbda69a062b9a0",
+				"dweb:/ipfs/QmeNJckhCB1rNbRJKKQoQDJXqwo7CBhrGA1Qf4uf8PsUPn"
 			]
 		}
 	},
