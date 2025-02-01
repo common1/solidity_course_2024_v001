@@ -46,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"IfElse.sol": "NFTCount"
+			"IfElse.sol": "IfEls"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -61,11 +61,11 @@
 	},
 	"sources": {
 		"IfElse.sol": {
-			"keccak256": "0x6c5bea9f45abee35a08205c19f514dd2c90f9d03aa8951a3ec3fe679a754c0f1",
+			"keccak256": "0x1f9a91e04ad762eb436290719d2084b15ee35bb556b722b60596b2b82791d90d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7c6238aea6edc5d20dacf7014f1eb7d77b4d744d7b20bcab9ff6d8fe27243a8b",
-				"dweb:/ipfs/QmTXiZVQAeM2k5MS8hM9zoKjnV2GVV6b3DQYJxg3ALhjKi"
+				"bzz-raw://22e5779cc8542857435e51092678a5375431cd2fa28c7db53a1eabb90cb62203",
+				"dweb:/ipfs/QmPVSeL56yWfWBHgxRZqhEKBaNV8nAry3hB1Kav2WEZymk"
 			]
 		}
 	},

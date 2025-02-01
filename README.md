@@ -55,3 +55,8 @@ https://www.youtube.com/watch?v=KS7R9z0wqMo&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 16 If, Else In Solidity | Complete Solidity Course 2022
+https://www.youtube.com/watch?v=jDQqJd3P0RQ&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=16
+
+...
+

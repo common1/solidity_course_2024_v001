@@ -6,29 +6,53 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"name": "addNFT",
-				"outputs": [],
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "result",
+						"type": "string"
+					}
+				],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "checkTotalNFT",
+				"name": "myString",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "string",
 						"name": "",
-						"type": "uint256"
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
 				"type": "function"
 			},
 			{
-				"inputs": [],
-				"name": "deleteNFT",
-				"outputs": [],
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "shortHand",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "result",
+						"type": "string"
+					}
+				],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			}
@@ -46,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"IfElse.sol": "NFTCount"
+			"IfElse.sol": "IfElse"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -61,11 +85,11 @@
 	},
 	"sources": {
 		"IfElse.sol": {
-			"keccak256": "0x6c5bea9f45abee35a08205c19f514dd2c90f9d03aa8951a3ec3fe679a754c0f1",
+			"keccak256": "0xe14344d1233b875e7fe7a187a458f841091346af33f1285933e9826be89dfb2c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7c6238aea6edc5d20dacf7014f1eb7d77b4d744d7b20bcab9ff6d8fe27243a8b",
-				"dweb:/ipfs/QmTXiZVQAeM2k5MS8hM9zoKjnV2GVV6b3DQYJxg3ALhjKi"
+				"bzz-raw://c3d5ef88e8c4837fc52e3d3cbf219785c7a0388865b199022983d517104d5626",
+				"dweb:/ipfs/Qmdm5wVY1zSNkSbjewkZqya5iEWZgKyjmHohJCihLHgLi7"
 			]
 		}
 	},
