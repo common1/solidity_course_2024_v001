@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"RequireErrorHandler.sol": "ForLoop"
+			"RequireErrorHandler.sol": "REquire"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"RequireErrorHandler.sol": {
-			"keccak256": "0x62b05cbe52607b8bf93a8160db4c0f0cc06a89cf00f4cc4d95d89ad612053deb",
+			"keccak256": "0xf8b849cc8b555833d244c38d561ff7adbf1d2127977128ebe56a052d53283ec5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e6d0e65c3b49358b39467f673b29018b814b899eea969d7634862aaaa4a37b36",
-				"dweb:/ipfs/QmaBNLUujxg2oy9HJKa2Ajaugn1dBfrXX8P5LJwdz93YSt"
+				"bzz-raw://e8b2dea135699b6efbc0fa962dacd9ca812e815d1c899fb2ef2ecf5ce654e1b4",
+				"dweb:/ipfs/QmXo5bAVkY5KaafKdN5YB1vDDCPrTVU2gXTQzW63BFuVyA"
 			]
 		}
 	},
