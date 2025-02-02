@@ -105,3 +105,8 @@ https://www.youtube.com/watch?v=zeBwcVfr-9Y&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 26 Solidity Arrays Tutorial| How To Use & Create Solidity Arrays | Complete Solidity Course
+https://www.youtube.com/watch?v=V-OBmrlg8wk&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=26
+
+...
+

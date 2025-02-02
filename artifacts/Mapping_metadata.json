@@ -8,9 +8,54 @@
 			{
 				"inputs": [
 					{
-						"internalType": "address",
-						"name": "_addr",
-						"type": "address"
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "examples",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "i",
+						"type": "uint256"
 					}
 				],
 				"name": "get",
@@ -25,14 +70,21 @@
 				"type": "function"
 			},
 			{
-				"inputs": [
+				"inputs": [],
+				"name": "getArr",
+				"outputs": [
 					{
-						"internalType": "address",
+						"internalType": "uint256[]",
 						"name": "",
-						"type": "address"
+						"type": "uint256[]"
 					}
 				],
-				"name": "myMap",
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getLength",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -46,12 +98,25 @@
 			{
 				"inputs": [
 					{
-						"internalType": "address",
-						"name": "_addr",
-						"type": "address"
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
 					}
 				],
-				"name": "remove",
+				"name": "myFixedSizeArr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pip",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -59,17 +124,25 @@
 			{
 				"inputs": [
 					{
-						"internalType": "address",
-						"name": "_addr",
-						"type": "address"
-					},
-					{
 						"internalType": "uint256",
-						"name": "_i",
+						"name": "i",
 						"type": "uint256"
 					}
 				],
-				"name": "set",
+				"name": "push",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "index",
+						"type": "uint256"
+					}
+				],
+				"name": "remove",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -88,7 +161,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"mapping.sol": "Mapping"
+			"array.sol": "Mapping"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -102,12 +175,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"mapping.sol": {
-			"keccak256": "0xfc73e62898911c9dceaab8b45210b4c6793505b0522cbbb940ff514cc738e581",
+		"array.sol": {
+			"keccak256": "0x655c124de91ee3f7eda7aa245c0560ffffb9e59d838eb02ed82a25d461c8129f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://264c1cf7488db4f9c8ccfa1dd7fdc4de1a58cc8b2108795fca9882b07aefa08c",
-				"dweb:/ipfs/QmTVAnsjmqcFNuQhxaYNT3irUeaJDJgqCKasrkKCMusiSG"
+				"bzz-raw://dbfb2455138ea200543dc45f25cddab22c000f8fabf4a80c16bc63676e19ba60",
+				"dweb:/ipfs/QmctntpnuS46bhbu2w7YgTC7cHoTCsaXbZbV2H1AugEGGV"
 			]
 		}
 	},

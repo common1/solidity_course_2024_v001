@@ -108,7 +108,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"mapping.sol": "NestedMapping"
+			"array.sol": "NestedMapping"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -122,12 +122,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"mapping.sol": {
-			"keccak256": "0xfc73e62898911c9dceaab8b45210b4c6793505b0522cbbb940ff514cc738e581",
+		"array.sol": {
+			"keccak256": "0xa3c4491ef7c858c081f47d1f34f2b2152d77e7e819f0034a38190f2a68ae37a3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://264c1cf7488db4f9c8ccfa1dd7fdc4de1a58cc8b2108795fca9882b07aefa08c",
-				"dweb:/ipfs/QmTVAnsjmqcFNuQhxaYNT3irUeaJDJgqCKasrkKCMusiSG"
+				"bzz-raw://d122edf86eea8cfde278e2ba47b59087fe32eb7433056a7a31a5302b8d54f5d6",
+				"dweb:/ipfs/Qmf2zJEnyhH6PaZsTQAXWvrBjVsugu6oCGmdxsgUg6Fzfe"
 			]
 		}
 	},
