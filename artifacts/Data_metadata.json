@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"DataLocation.sol": "Enum"
+			"DataLocation.sol": "Data"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"DataLocation.sol": {
-			"keccak256": "0x9c92ddaa529af4dc8469fa54cebf52cd5ab068b21fb9f326a470d4cbe23f3610",
+			"keccak256": "0x357f1140dea38ac9428caa6fd8a364b64fd87a5685288940a098e283d9dc2c5a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3aaed85707d6ab1a8ac96202db7b68c358cdfbc9ccc7459ad75dad1dd4d6ea81",
-				"dweb:/ipfs/QmTQbJbLcz9ctKguqrF6FVk5USzpFA5tfSGBnMP9x6xoM8"
+				"bzz-raw://e179df6728e071fb027e1f0ef09658bee86d6e5a5cbbe8849ec5621745195e2a",
+				"dweb:/ipfs/QmTX65MeZoFS5aWwFZE21xMgEDTyBNFN7CFRDwMFMzhhjQ"
 			]
 		}
 	},
