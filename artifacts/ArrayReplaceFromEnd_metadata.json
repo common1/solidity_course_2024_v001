@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"arrayReplace.sol": "ArrayReplaceFromEnd"
+			"enum.sol": "ArrayReplaceFromEnd"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -72,7 +72,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"arrayReplace.sol": {
+		"enum.sol": {
 			"keccak256": "0x8045b3a09c585572b6b31573a87bb1ae3cb0db16ad549a1ffdecf8908b49e9aa",
 			"license": "MIT",
 			"urls": [
