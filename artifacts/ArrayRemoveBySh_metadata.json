@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"arrayRemove.sol": "Mapping"
+			"arrayRemove.sol": "ArrayRemoveBySh"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"arrayRemove.sol": {
-			"keccak256": "0xe52a85823cc0b2b50789cbd2e0cff01da3cec4f1ef5590024431ac1616397a80",
+			"keccak256": "0x754c4ab547c03c4495ea98ba560c35a500503521a5fb7052e56ab69d47503f57",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1b575b9c848bb5c46f71c737706e743b2acfe0b50e8c76aa4d983d2f0ca1fde2",
-				"dweb:/ipfs/QmaZwwmcg2mLesCuGd5Kmczg13grhWG9UaFFSuoGQBMhXV"
+				"bzz-raw://eae2555561b47c5639c04b50762aa9a63cbbf1830f3a779c3c3f794049a3ea98",
+				"dweb:/ipfs/QmSDUJGqLGAAQhCAjgC3mZhRFjiyeyyXb1m3YG9duaRrA5"
 			]
 		}
 	},
