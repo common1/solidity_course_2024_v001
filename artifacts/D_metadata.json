@@ -50,7 +50,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"constructor.sol": "D"
+			"mapping.sol": "D"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -64,7 +64,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"constructor.sol": {
+		"mapping.sol": {
 			"keccak256": "0x19682ed192ca547919f671fb70af2e16d4b08321dda6ac6c899b8c67435f1b7e",
 			"license": "MIT",
 			"urls": [

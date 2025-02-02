@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"mapping.sol": "X"
+			"mapping.sol": "Map"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"mapping.sol": {
-			"keccak256": "0x9e194efbcab3c59a1b9f3613682aebf198e95fa1ac9031b821aac5fcf5eac39a",
+			"keccak256": "0x61ffcc858a1443755a8b61efec900a560d53864fe1c51927b6dfbb5ec0be2377",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3e55e1f8515909410087208e0aaee3b3d15f01e12e5befcb9f9dc00830cafff4",
-				"dweb:/ipfs/QmYKkdPwzL5QhF5SgQiAcLXjPYN9yNFXPZNrbgeZwF8Kcv"
+				"bzz-raw://9a095fffdeceb8e962e10df2160120856bedf8c1dcf8f9e6b213ed58ca362d61",
+				"dweb:/ipfs/QmTZsfhD59y7tTd8BkpYvkvuwQ6KTgZiTsQG62xZpcc4B4"
 			]
 		}
 	},
