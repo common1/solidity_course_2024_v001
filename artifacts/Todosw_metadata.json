@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"structs.sol": "Modifier"
+			"structs.sol": "Todosw"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"structs.sol": {
-			"keccak256": "0x92dbf0cb939f9fcb1b0bfaeeb4aef7e76c3dffb2ee6bb7e4b6df131d88864d57",
+			"keccak256": "0xd32a7b7c3607df37d7e94f3118b52192973196fed7730e98536de6df7b031539",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2cdfe683f6917f555e61278fde96d6af76cc09dad1525903f7e5c14a74f81cdd",
-				"dweb:/ipfs/QmTFmdMLtMatVXcJzESgECtvfVa1ZRT7vh3oPYWkeLkgXH"
+				"bzz-raw://cb407813794c2f1067038ca0f3718925ac1fa5df21db09a173cc716bb3e2b4c4",
+				"dweb:/ipfs/QmX49Z5X9pGKZf5jBCqjy1FsvB9e7AKn4HKyhUCSXZRzqN"
 			]
 		}
 	},

@@ -130,3 +130,6 @@ https://www.youtube.com/watch?v=5Pq7qpb9jKM&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 31 Solidity Structs | How To Use & Create Solidity Structs | Complete Solidity Course
+https://www.youtube.com/watch?v=FobxFdDvFUU&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=31
+
