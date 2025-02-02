@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"EnumDeclarationUser.sol": "Enum"
+			"ImportStructsUse.sol": "Enum"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -54,7 +54,7 @@
 				"dweb:/ipfs/QmPEox1TRMymAzrmVVbAPWX9apVbasK7zUaeyDpMDgQHNA"
 			]
 		},
-		"EnumDeclarationUser.sol": {
+		"ImportStructsUse.sol": {
 			"keccak256": "0xaf43a02b0d00075b59ede1acb96077f611157c7a77c79fe452571e19e9954e3b",
 			"license": "MIT",
 			"urls": [

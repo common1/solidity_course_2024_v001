@@ -8,43 +8,6 @@
 			{
 				"inputs": [
 					{
-						"internalType": "string",
-						"name": "_text",
-						"type": "string"
-					}
-				],
-				"name": "create",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_index",
-						"type": "uint256"
-					}
-				],
-				"name": "get",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "_text",
-						"type": "string"
-					},
-					{
-						"internalType": "bool",
-						"name": "completed",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
 						"internalType": "uint256",
 						"name": "",
 						"type": "uint256"
@@ -65,37 +28,6 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_index",
-						"type": "uint256"
-					}
-				],
-				"name": "toggleCompleted",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_index",
-						"type": "uint256"
-					},
-					{
-						"internalType": "string",
-						"name": "_text",
-						"type": "string"
-					}
-				],
-				"name": "updateText",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -111,7 +43,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"structs.sol": "Todos"
+			"ImportStructsUse.sol": "Todos"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -125,12 +57,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"structs.sol": {
-			"keccak256": "0x1f7620729b5ae79a9ee27f53ccd02a1f90f2fb56a4370f44114996946ff73f86",
+		"ImportStructs.sol": {
+			"keccak256": "0xb5ac27ac554c1a506bd7c059ec1d9c8c05bd77f149c3030c37f8ab48abf54bb8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e72366e8e1680cca5763c16c87142d42a7eebab845523712bb74f34df8afa140",
-				"dweb:/ipfs/QmQwDYUyB8hJeJGNXqQbyFi1j9ebVLTKTQUNpy6vHBaWJ9"
+				"bzz-raw://2750fd0f97023c8cbcbce5e734ec66561ab296b8f5688ab1f80b0a672a3dbeb8",
+				"dweb:/ipfs/QmdTECWnrZnXx2Uvs845XorDjw8itwRtJTwR64z5MCopcN"
+			]
+		},
+		"ImportStructsUse.sol": {
+			"keccak256": "0xb16eafe19504b91ff89d4fc50b6c0fe32663a493c3184f22bc6df7dbd5f8e672",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a9f38d991d04a38ee93e388ddea084634f75e0bb889594a01e64180c768fd195",
+				"dweb:/ipfs/QmerWTHF26yQsysJzZsohVcYxKjbxmg3HSRto4boUr8W2L"
 			]
 		}
 	},
