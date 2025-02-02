@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"RevertErrorHandle.sol": "LearnFunction"
+			"function.sol": "LearnFunction"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"RevertErrorHandle.sol": {
-			"keccak256": "0xf2bf329aeb08d203248fa115fdd000cb79e97025def86e3279843437a9aff784",
+		"function.sol": {
+			"keccak256": "0x7e3b3fe552298699f703f2d18a30b28f49b17b10c85aeed81a50f7606109e82f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b395f8347b740e59ea4637bf490544409bd861275abbcce240fcb14101212baa",
-				"dweb:/ipfs/QmYfnfjvJpRZy8efbFGR6dvYdYN8Dw5szCAiutG3siCsc4"
+				"bzz-raw://cd43a15eeaaefcf12dac551b4cdb680d98909ba17cb67acf65060c665a639791",
+				"dweb:/ipfs/QmcX73xHoGZbFBeWKsjz7EEWEypHKE8q31GJYvrUdiqMEt"
 			]
 		}
 	},
