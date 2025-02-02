@@ -7,50 +7,10 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "cancel",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "get",
-				"outputs": [
-					{
-						"internalType": "enum Enum.Status",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "reset",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "enum Enum.Status",
-						"name": "_status",
-						"type": "uint8"
-					}
-				],
-				"name": "set",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "status",
 				"outputs": [
 					{
-						"internalType": "enum Enum.Status",
+						"internalType": "enum Status",
 						"name": "",
 						"type": "uint8"
 					}
@@ -72,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"enum.sol": "Enum"
+			"EnumDeclarationUser.sol": "Enum"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -86,12 +46,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"enum.sol": {
-			"keccak256": "0xb01b528e56e7a256074c0a2babd4eccb3b94fd3cf0d974bce6efc3511150a0ed",
+		"EnumDeclaration.sol": {
+			"keccak256": "0x004344479f7b56a466f308c43b646e0e1e4c86fcce76c228fe56d86096747c18",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://193891e8ae5b366c0a34a0bea2f0abd8f5740a21d4b5343f6ce209e4e30ffe5c",
-				"dweb:/ipfs/Qmdvs5eUmur7Qq9MNPurDj2SxPNL4C2Yoi7BrLZqSoobx4"
+				"bzz-raw://685dde94d62f308107ff1503f017a8a51a8152a732acfc28023376545f8a9d02",
+				"dweb:/ipfs/QmPEox1TRMymAzrmVVbAPWX9apVbasK7zUaeyDpMDgQHNA"
+			]
+		},
+		"EnumDeclarationUser.sol": {
+			"keccak256": "0xaf43a02b0d00075b59ede1acb96077f611157c7a77c79fe452571e19e9954e3b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c2cd3198d876a2b813d3c24a34a52c24301c32888406d0cbdf959ffea77b00b1",
+				"dweb:/ipfs/QmbuRK4F772cZpTTVB4nzrUChJTFBNELBT36WGtYRmLgMU"
 			]
 		}
 	},
