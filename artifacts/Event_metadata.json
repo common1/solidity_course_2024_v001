@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"events.sol": "Function"
+			"events.sol": "Event"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"events.sol": {
-			"keccak256": "0xaa5a3619a574c7733eb2785d4ad93a84cb4a46b5eba524b7556b0187ab82d647",
+			"keccak256": "0x501a5730aa748b388927a06c9c718f0115267dd6cfc7f09499caee4774abc4df",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://159ff1c22aebf1e11f22efb764c08321c03a5ba306cc81a366f69ae6e5fb5066",
-				"dweb:/ipfs/QmRLFSDr8h9juAPBaY194YLBHGoarQCLrvcW5z6U2LjzZq"
+				"bzz-raw://c125245389f094bb968bdb28fb0a3bb7e6a3cf1b69ec74afc71a89577bd8b644",
+				"dweb:/ipfs/QmauH7yWqsVS35kcH3SY6xWaxTHtkMzmCSAXMa6fgv5diF"
 			]
 		}
 	},

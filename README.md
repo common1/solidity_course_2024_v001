@@ -150,3 +150,8 @@ https://www.youtube.com/watch?v=axWKdWTqOx8&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC
 
 ...
 
+## 35 Solidity Events | How To Create Events In Solidity Smart Contract | Complete Solidity Course
+https://www.youtube.com/watch?v=_H69dqzteog&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck&index=35
+
+...
+

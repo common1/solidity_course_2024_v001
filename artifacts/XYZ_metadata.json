@@ -89,7 +89,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"function.sol": "XYZ"
+			"events.sol": "XYZ"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -103,12 +103,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"function.sol": {
-			"keccak256": "0x59feebf1dba2922eb04c8211631336500b3744dcf5218ff9ac3b2f5b4a4d6110",
+		"events.sol": {
+			"keccak256": "0x6ef452eaf49733f3e1fd37e52e4cd15f9130b582a3cf75680f7be0ab525e157d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1773c538e794f32f6457c805da985d8de0816b7504e8ce05b5f155fc23fe20b3",
-				"dweb:/ipfs/QmbfUuhYMnz618Xktg6R4GMUieGXX6Q2NG8hPaZY6S69rw"
+				"bzz-raw://5f8a9f3585613e37c1e29922d8d10da762fccf984c71ef91621ba6e2bef1059e",
+				"dweb:/ipfs/QmeCJbkFR9W8a3uqaX2y9WBrsznPRFR8fgXYLxskBe9vbZ"
 			]
 		}
 	},
